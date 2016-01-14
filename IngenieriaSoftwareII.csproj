@@ -52,6 +52,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="practicaDos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="practicaDos.Designer.cs">
+      <DependentUpon>practicaDos.cs</DependentUpon>
+    </Compile>
     <Compile Include="practicaUno.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +68,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="practicaDos.resx">
+      <DependentUpon>practicaDos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="practicaUno.resx">
       <DependentUpon>practicaUno.cs</DependentUpon>
@@ -91,6 +100,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\green_metro_swirl_lockscreen_by_snowince-d5tcm2u.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\practicados\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\practicados\2.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
