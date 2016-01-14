@@ -18,3 +18,13 @@ C:\Users\AIMCO\Documents\Visual Studio 2015\Projects\IngenieriaSoftwareII\obj\De
 C:\Users\AIMCO\Documents\Visual Studio 2015\Projects\IngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.practicaUno.resources
 C:\Users\AIMCO\Documents\Visual Studio 2015\Projects\IngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.Properties.Resources.resources
 C:\Users\AIMCO\Documents\Visual Studio 2015\Projects\IngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.csproj.GenerateResource.Cache
+C:\Users\AIMCO\Documents\Visual Studio 2015\Projects\UTCHIngenieriaSoftwareII\bin\Debug\IngenieriaSoftwareII.exe.config
+C:\Users\AIMCO\Documents\Visual Studio 2015\Projects\UTCHIngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.exe
+C:\Users\AIMCO\Documents\Visual Studio 2015\Projects\UTCHIngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.pdb
+C:\Users\AIMCO\Documents\Visual Studio 2015\Projects\UTCHIngenieriaSoftwareII\bin\Debug\IngenieriaSoftwareII.exe
+C:\Users\AIMCO\Documents\Visual Studio 2015\Projects\UTCHIngenieriaSoftwareII\bin\Debug\IngenieriaSoftwareII.pdb
+C:\Users\AIMCO\Documents\Visual Studio 2015\Projects\UTCHIngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.csprojResolveAssemblyReference.cache
+C:\Users\AIMCO\Documents\Visual Studio 2015\Projects\UTCHIngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.Form1.resources
+C:\Users\AIMCO\Documents\Visual Studio 2015\Projects\UTCHIngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.practicaUno.resources
+C:\Users\AIMCO\Documents\Visual Studio 2015\Projects\UTCHIngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.Properties.Resources.resources
+C:\Users\AIMCO\Documents\Visual Studio 2015\Projects\UTCHIngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.csproj.GenerateResource.Cache

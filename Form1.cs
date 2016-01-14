@@ -26,7 +26,7 @@ namespace IngenieriaSoftwareII
         private void lblPractica1_Click(object sender, EventArgs e)
         {
             //Se asigna un fondo al picturebox principal en base a la práctica seleccionada.
-            pbPractica.Image = System.Drawing.Image.FromFile("C:\\Users\\chubu\\Documents\\Visual Studio 2015\\Projects\\IngenieriaSoftwareII\\IngenieriaSoftwareII\\img\\1.png");
+            pbPractica.Image = System.Drawing.Image.FromFile(Application.StartupPath + "..\\img\\1.png");
             //Se hace visible el panel que contiene el label de ejecución.
             pbPractica.Image = System.Drawing.Image.FromFile(Application.StartupPath + "..\\1.png");
             pnlEjecutar.Visible = true;
