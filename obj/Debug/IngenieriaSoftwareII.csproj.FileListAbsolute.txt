@@ -29,3 +29,7 @@ C:\Users\AIMCO\Documents\Visual Studio 2015\Projects\UTCHIngenieriaSoftwareII\ob
 C:\Users\AIMCO\Documents\Visual Studio 2015\Projects\UTCHIngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.Properties.Resources.resources
 C:\Users\AIMCO\Documents\Visual Studio 2015\Projects\UTCHIngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.csproj.GenerateResource.Cache
 C:\Users\AIMCO\Documents\Visual Studio 2015\Projects\UTCHIngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.practicaDos.resources
+C:\Users\chubu\Documents\Visual Studio 2015\Projects\IngenieriaSoftwareII\UTCHIngenieriaSoftwareII\bin\Debug\IngenieriaSoftwareII.exe.config
+C:\Users\chubu\Documents\Visual Studio 2015\Projects\IngenieriaSoftwareII\UTCHIngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.exe
+C:\Users\chubu\Documents\Visual Studio 2015\Projects\IngenieriaSoftwareII\UTCHIngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.pdb
+C:\Users\chubu\Documents\Visual Studio 2015\Projects\IngenieriaSoftwareII\UTCHIngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.csprojResolveAssemblyReference.cache
