@@ -33,3 +33,14 @@ C:\Users\chubu\Documents\Visual Studio 2015\Projects\IngenieriaSoftwareII\UTCHIn
 C:\Users\chubu\Documents\Visual Studio 2015\Projects\IngenieriaSoftwareII\UTCHIngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.exe
 C:\Users\chubu\Documents\Visual Studio 2015\Projects\IngenieriaSoftwareII\UTCHIngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.pdb
 C:\Users\chubu\Documents\Visual Studio 2015\Projects\IngenieriaSoftwareII\UTCHIngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.csprojResolveAssemblyReference.cache
+D:\Documentos\GitHub\UTCHIngenieriaSoftwareII\bin\Debug\IngenieriaSoftwareII.exe.config
+D:\Documentos\GitHub\UTCHIngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.exe
+D:\Documentos\GitHub\UTCHIngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.pdb
+D:\Documentos\GitHub\UTCHIngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.csprojResolveAssemblyReference.cache
+D:\Documentos\GitHub\UTCHIngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.Form1.resources
+D:\Documentos\GitHub\UTCHIngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.practicaDos.resources
+D:\Documentos\GitHub\UTCHIngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.practicaUno.resources
+D:\Documentos\GitHub\UTCHIngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.Properties.Resources.resources
+D:\Documentos\GitHub\UTCHIngenieriaSoftwareII\obj\Debug\IngenieriaSoftwareII.csproj.GenerateResource.Cache
+D:\Documentos\GitHub\UTCHIngenieriaSoftwareII\bin\Debug\IngenieriaSoftwareII.exe
+D:\Documentos\GitHub\UTCHIngenieriaSoftwareII\bin\Debug\IngenieriaSoftwareII.pdb
